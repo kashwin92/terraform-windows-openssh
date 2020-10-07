@@ -1,0 +1,6 @@
+profile        = "ec2-tfuser-root"
+region         = "us-east-1"
+windows_sg     = "Windows-SG"
+ami            = "ami-06f6f33114d2db0b1"
+instance_type  = "t2.small"
+key_name       = "openssh"
